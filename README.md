@@ -1,5 +1,7 @@
 # rat_video_demo
-Files for video processing demo
+
+### Instructions for using demo files
+
 
 1. Download the files
 ```
